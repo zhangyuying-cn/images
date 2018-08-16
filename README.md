@@ -1,1 +1,3 @@
-Operating steps to explain
+主要是用于存储个人博客所使用的图片
+
+个人博客地址：zhangyuying.cn
